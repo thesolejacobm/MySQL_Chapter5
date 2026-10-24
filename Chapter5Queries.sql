@@ -1,3 +1,9 @@
+/*
+MySQL Chapter 5 assignment
+Jacob Mundt
+Started on 10/14/2026
+*/
+
 /* Exercise 1: Full Table Backup */
 /* 1.1 */
 SELECT COUNT(*) FROM customer;
